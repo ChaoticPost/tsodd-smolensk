@@ -225,7 +225,7 @@ src/
 
 | Роль | ФИО | Контакты |
 |------|-----|----------|
-| Frontend | ChaoticPost | @ChaoticPost |
+| Frontend | ChaoticPost | @daria_chugu |
 
 ---
 

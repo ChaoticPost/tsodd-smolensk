@@ -1,0 +1,1 @@
+export { AntiCorruptionPage } from './AntiCorruption';
